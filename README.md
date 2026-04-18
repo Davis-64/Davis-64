@@ -63,9 +63,10 @@ Aqui estão as ferramentas e tecnologias que utilizo para dar vida às ideias:
 ---
 
 #### 🐍 Atividade
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Davis-64/Davis-64/output/github-contr]ibution-grid-snake.svg" alt="Snake animation" />
-</div>
+
+<img src="https://raw.githubusercontent .com/Davis-64/Davis-64/output/github -contribution-grid-snake.svg" alt="Snake animation" /> </div>
 
 ---
 
