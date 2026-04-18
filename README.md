@@ -6,34 +6,29 @@
 
 ---
 
-### 🚀 Sobre Mim
+### <img src="assets/img/pessoa.png" width="25"> Sobre Mim
 
 Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full Stack focado em criar soluções escaláveis. Tenho facilidade em comunicação e vasta experiência em projetos colaborativos.
 
-- 🎂 **Idade:** 20 anos
-- 📍 **Localização:** Rio Grande do Norte, Brasil
-- 💼 Aberto a colaborações em projetos inovadores.
-- 👁️ **Visitas:** ![Visitas](https://komarev.com/ghpvc/?username=Davis-64&color=36BCF7&style=flat-square)
+- <img src="assets/img/bolo-de-aniversario.png" width="18"> **Idade:** 20 anos
+- <img src="assets/img/pin-de-localizacao.png" width="18"> **Localização:** Rio Grande do Norte, Brasil
+- <img src="assets/img/procura.png" width="18"> Aberto a colaborações em projetos inovadores.
+- <img src="assets/img/mostrar.png" width="18"> **Visitas:** ![Visitas](https://komarev.com/ghpvc/?username=Davis-64&color=36BCF7&style=flat-square)
 
 ---
 
-### 🎓 Formação Acadêmica
-
+### <img src="assets/img/aprendizado.png" width="25"> Formação Acadêmica
 
 | Instituição | Curso | Status |
 | :--- | :--- | :--- |
 | <img src="assets/img/ifrn.png" width="70px" alt="IFRN"> | **Técnico em Informática** (IFRN) | Concluído |
 | <img src="assets/img/PNG-brasão-Ufersa.png" width="65px" alt="UFERSA">| **Bacharelado em Tecnologia da Informação** (UFERSA) | Em curso |
 
-
-> **Destaque (IFRN):** Lógica de Programação, Algoritmos e Estrutura de Dados.
-Desenvolvimento Web Full Stack (HTML, CSS, JS, Python).
-Banco de Dados Relacionais e SQL.
-Redes de Computadores e Sistemas Operacionais.
+> **Destaque (IFRN):** Lógica de Programação, Algoritmos e Estrutura de Dados. Desenvolvimento Web Full Stack (HTML, CSS, JS, Python). Banco de Dados Relacionais e SQL. Redes de Computadores e Sistemas Operacionais.
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="assets/img/codificacao-da-web.png" width="25"> Tech Stack
 Aqui estão as ferramentas e tecnologias que utilizo para dar vida às ideias:
 <div align="center">
   <a href="#">
@@ -49,7 +44,7 @@ Aqui estão as ferramentas e tecnologias que utilizo para dar vida às ideias:
 
 ---
 
-### 📊 Estatísticas
+### <img src="assets/img/codificacao-da-web.png" width="25"> Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davis-64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -62,7 +57,7 @@ Aqui estão as ferramentas e tecnologias que utilizo para dar vida às ideias:
 
 ---
 
-### 📫 Contato
+### <img src="assets/img/contato.png" width="25"> Contato
 
 <p align="left">
   <a href="mailto:davisdemosthenes@gmail.com">
