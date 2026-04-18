@@ -10,7 +10,7 @@
 
 Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full Stack focado em criar soluções escaláveis. Tenho facilidade em comunicação e vasta experiência em projetos colaborativos.
 
-- <img src="assets/img/bolo-de-aniversario.png" width="18"> **Idade:** 20 anos
+- <img src="assets/img/popper-de-festa.png" width="18"> **Idade:** 20 anos
 - <img src="assets/img/pin-de-localizacao.png" width="18"> **Localização:** Rio Grande do Norte, Brasil
 - <img src="assets/img/procura.png" width="18"> Aberto a colaborações em projetos inovadores.
 - <img src="assets/img/mostrar.png" width="18"> **Visitas:** ![Visitas](https://komarev.com/ghpvc/?username=Davis-64&color=36BCF7&style=flat-square)
