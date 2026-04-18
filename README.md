@@ -40,7 +40,7 @@ Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full S
       <img src="https://upload.wikimedia.org/wikipedia/pt/2/2a/Logo_Ufersa.png" width="90px" alt="UFERSA Logo">
     </td>
     <td>
-      <b>Bacharelado em Tecnologia da Informação</b> - UFERSA<br>
+      <b>Bacharelado em Tecnologia da Informação</b> - UFERSA [EM CURSO]<br>
       <i>Foco em Engenharia de Software e Arquitetura de Sistemas.</i>
     </td>
   </tr>
@@ -67,7 +67,7 @@ Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full S
 
 #### 🐍 Atividade (Snake Game)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Davis-64/Davis-64/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Davis-64/Davis-64/output/github-contr]ibution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
