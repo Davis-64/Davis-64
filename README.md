@@ -1,7 +1,6 @@
-# Olá! Eu sou o Davis Demosthenes 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Entusiasta+de+AWS+%26+Cloud;Especialista+em+Comunica%C3%A7%C3%A3o;Estudante+de+TI+na+UFERSA" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Davis%20Demosthenes&fontSize=70&fontColor=36BCF7&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Cloud+Solutions+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
