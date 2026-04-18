@@ -1,12 +1,6 @@
 # Olá! Eu sou o Davis Demosthenes 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZzR4ZWd4cW94ZzR4ZWd4cW94ZzR4ZWd4cW94ZzR4ZWd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp8yYyG2bkc/giphy.gif" width="200" alt="Robô andando" />
-</div>
-
-
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Entusiasta+de+AWS+%26+Cloud;Especialista+em+Comunica%C3%A7%C3%A3o;Estudante+de+TI+na+UFERSA" alt="Typing SVG" />
 </div>
 
@@ -55,17 +49,13 @@ Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full S
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tech Stack Animada
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=py,django,js,java,cpp,c,aws,postgres,docker,git&theme=dark" />
+  </a>
+</div>
 ---
 
 ### 📊 Estatísticas
