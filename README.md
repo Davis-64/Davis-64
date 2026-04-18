@@ -44,7 +44,7 @@ Aqui estão as ferramentas e tecnologias que utilizo para dar vida às ideias:
 
 ---
 
-### <img src="assets/img/codificacao-da-web.png" width="25"> Estatísticas
+### <img src="assets/img/avaliacao-de-desempenho.png" width="25"> Estatísticas
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davis-64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
