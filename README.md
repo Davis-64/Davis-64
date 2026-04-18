@@ -22,8 +22,8 @@ Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full S
 
 | Instituição | Curso | Status |
 | :--- | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/gilson-pereira/logos/master/ifrn.png" width="50px"> | **Técnico em Informática** (IFRN) | Concluído |
-| <img src="https://upload.wikimedia.org/wikipedia/pt/2/2a/Logo_Ufersa.png" width="45px"> | **Bacharelado em Tecnologia da Informação** (UFERSA) | Em curso |
+| <img src="assets/img/ifrn.png" width="70px" alt="IFRN"> | **Técnico em Informática** (IFRN) | Concluído |
+| <img src="assets/img/PNG-brasão-Ufersa.png" width="65px" alt="UFERSA">| **Bacharelado em Tecnologia da Informação** (UFERSA) | Em curso |
 
 
 > **Destaque (IFRN):** Lógica de Programação, Algoritmos e Estrutura de Dados.
