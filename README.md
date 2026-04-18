@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Entusiasta+de+AWS+%26+Cloud;Especialista+em+Comunica%C3%A7%C3%A3o;Estudante+de+TI+na+UFERSA" alt="Typing SVG" />
 </div>
 
-
 ---
 
 ### 🚀 Sobre Mim
@@ -56,6 +55,7 @@ Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full S
     <img src="https://skillicons.dev/icons?i=py,django,js,java,cpp,c,aws,postgres,docker,git&theme=dark" />
   </a>
 </div>
+
 ---
 
 ### 📊 Estatísticas
