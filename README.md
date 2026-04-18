@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Davis-64&theme=tokyonight&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Davis-64&theme=tokyonight&no-frame=false&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
