@@ -19,42 +19,33 @@ Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full S
 
 ### 🎓 Formação Acadêmica
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/gilson-pereira/logos/master/ifrn.png" width="100px" alt="IFRN Logo">
-    </td>
-    <td>
-      <b>Técnico em Informática</b> - IFRN<br>
-      <i>Competências desenvolvidas:</i>
-      <ul>
-        <li>Lógica de Programação, Algoritmos e Estrutura de Dados.</li>
-        <li>Desenvolvimento Web Full Stack (HTML, CSS, JS, Python).</li>
-        <li>Banco de Dados Relacionais e SQL.</li>
-        <li>Redes de Computadores e Sistemas Operacionais.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/pt/2/2a/Logo_Ufersa.png" width="90px" alt="UFERSA Logo">
-    </td>
-    <td>
-      <b>Bacharelado em Tecnologia da Informação</b> - UFERSA [EM CURSO]<br>
-      <i>Foco em Engenharia de Software e Arquitetura de Sistemas.</i>
-    </td>
-  </tr>
-</table>
+
+| Instituição | Curso | Status |
+| :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/gilson-pereira/logos/master/ifrn.png" width="50px"> | **Técnico em Informática** (IFRN) | Concluído |
+| <img src="https://upload.wikimedia.org/wikipedia/pt/2/2a/Logo_Ufersa.png" width="45px"> | **Bacharelado em Tecnologia da Informação** (UFERSA) | Em curso |
+
+
+> **Destaque (IFRN):** Lógica de Programação, Algoritmos e Estrutura de Dados.
+Desenvolvimento Web Full Stack (HTML, CSS, JS, Python).
+Banco de Dados Relacionais e SQL.
+Redes de Computadores e Sistemas Operacionais.
 
 ---
 
-### 🛠️ Tech Stack Animada
-
+### 🛠️ Tech Stack
+Aqui estão as ferramentas e tecnologias que utilizo para dar vida às ideias:
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=py,django,js,java,cpp,c,aws,postgres,docker,git&theme=dark" />
   </a>
 </div>
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **Web / Backend** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Infra / Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
@@ -65,7 +56,13 @@ Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full S
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davis-64&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-#### 🐍 Atividade (Snake Game)
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Davis-64&theme=tokyonight" />
+</div>
+
+---
+
+#### 🐍 Atividade
 <div align="center">
   <img src="https://raw.githubusercontent.com/Davis-64/Davis-64/output/github-contr]ibution-grid-snake.svg" alt="Snake animation" />
 </div>
