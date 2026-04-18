@@ -44,30 +44,19 @@ Aqui estão as ferramentas e tecnologias que utilizo para dar vida às ideias:
 
 ---
 
-### <img src="assets/img/avaliacao-de-desempenho.png" width="25"> Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davis-64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davis-64&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Davis-64&theme=tokyonight" />
-</div>
-
----
-
-### <img src="assets/img/contato.png" width="25"> Contato
+### <img src="assets/img/contato.png" width="25"> Networking & Documentação
 
 <p align="left">
-  <a href="mailto:davisdemosthenes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/SEU-USER-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&border=58a6ff" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/davisdemosthenes">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="http://lattes.cnpq.br/SEU-NUMERO-LATTES" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo_Lattes-0d1117?style=for-the-badge&logo=googlescholar&logoColor=58a6ff" alt="Lattes" />
+  </a>
+  <a href="mailto:davisdemosthenes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/davisdemosthenes" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff" alt="Instagram" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" />
-</div>
