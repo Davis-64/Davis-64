@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Davis%20Demosthenes&fontSize=70&fontColor=36BCF7&animation=fadeIn&fontAlignY=35" />
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Cloud+Solutions+Enthusiast" alt="Typing SVG" />
 </div>
 
@@ -25,24 +26,35 @@ Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full S
 
 > **Destaque (IFRN):** Lógica de Programação, Algoritmos e Estrutura de Dados; Desenvolvimento Web Full Stack (HTML, CSS, JS, Python); Redes de Computadores e Sistemas Operacionais.
 
-
 > **Destaque (UFERSA):** Engenharia de Software e Metodologias Ágeis; Arquitetura de Computadores e Sistemas Distribuídos; Governança de TI e Gestão de Projetos Tecnológicos.
 
 ---
 
 ### <img src="assets/img/codificacao-da-web.png" width="25"> Tech Stack
+
 Aqui estão as ferramentas e tecnologias que utilizo para dar vida às ideias:
+
 <div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=py,django,js,java,cpp,c,aws,postgres,docker,git&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,django,js,java,cpp,c,aws,postgres,docker,git&theme=dark" />
 </div>
 
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Web / Backend** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Infra / Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+
+---
+
+### <img src="assets/img/avaliacao-de-desempenho.png" width="25"> Estatísticas de Desempenho
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davis-64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davis-64&layout=compact&langs_count=7&theme=tokyonight&title_color=36BCF7&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Davis-64&theme=tokyonight&fire=36BCF7&ring=36BCF7&sideNums=36BCF7&stroke=36BCF7&hide_border=true" />
+</div>
 
 ---
 
@@ -62,3 +74,7 @@ Aqui estão as ferramentas e tecnologias que utilizo para dar vida às ideias:
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff" alt="Instagram" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" />
+</div>
