@@ -24,7 +24,10 @@ Sou **Davis Demosthenes Wilstherman Rodrigues Queiroz**, um desenvolvedor Full S
 | <img src="assets/img/ifrn.png" width="70px" alt="IFRN"> | **Técnico em Informática** (IFRN) | Concluído |
 | <img src="assets/img/PNG-brasão-Ufersa.png" width="65px" alt="UFERSA">| **Bacharelado em Tecnologia da Informação** (UFERSA) | Em curso |
 
-> **Destaque (IFRN):** Lógica de Programação, Algoritmos e Estrutura de Dados. Desenvolvimento Web Full Stack (HTML, CSS, JS, Python). Banco de Dados Relacionais e SQL. Redes de Computadores e Sistemas Operacionais.
+> **Destaque (IFRN):** Lógica de Programação, Algoritmos e Estrutura de Dados; Desenvolvimento Web Full Stack (HTML, CSS, JS, Python); Redes de Computadores e Sistemas Operacionais.
+
+
+> **Destaque (UFERSA):** Engenharia de Software e Metodologias Ágeis; Arquitetura de Computadores e Sistemas Distribuídos; Governança de TI e Gestão de Projetos Tecnológicos.
 
 ---
 
